@@ -12,7 +12,7 @@ class AboutPage extends StatelessWidget {
           "About",
           style: TextStyle(color: Colors.yellow),
         ),
-        backgroundColor: const Color.fromARGB(255, 0, 0, 0),
+        backgroundColor: const Color.fromARGB(255, 109, 106, 72),
         iconTheme: const IconThemeData(color: Colors.yellow),
       ),
       body: const Padding(
